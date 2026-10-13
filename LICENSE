@@ -1,0 +1,113 @@
+Cyber Official Permissive License 1.0 (COPL-1.0)
+
+Copyright (c) 2026 Cyber Official. All rights not expressly granted here are
+reserved.
+
+1. PERMISSION
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to use,
+reproduce, modify, adapt, translate, publish and distribute copies of the
+Software and of derivative works based on it, on any device, for any
+non-commercial purpose, subject only to the conditions in section 2.
+
+Commercial use is NOT granted. In particular, you may not sell, resell, license,
+sublicense, rent, lease or otherwise charge anyone for the Software or for any
+derivative work, and you may not bundle it into a product or service that is
+offered for a fee, without prior written permission from the copyright holder.
+That permission is yours to ask for, and asking costs nothing.
+
+2. CONDITIONS
+
+(a) Notices. The copyright notice above and this license must be included in all
+copies or substantial portions of the Software, and in any derivative work
+distributed to others.
+
+(b) No endorsement. You may not state or imply that the author sponsors, endorses,
+certifies or is affiliated with you or with any derivative work, and you may not
+use the author's name or marks to promote a derivative work without written
+permission.
+
+(c) No trademark rights. This license grants no rights of any kind in any
+trademark, service mark, trade name, logo or product name. In particular it
+grants no rights in any mark owned by Ookla, LLC, including "Ookla", "Speedtest"
+and the Speedtest gauge design. Any use of those marks is outside the scope of
+this license and is solely your responsibility.
+
+(d) Third-party services. The Software contacts services operated by others. Your
+use of those services is governed by their own terms and not by this license.
+
+3. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. THE AUTHOR DOES NOT WARRANT
+THAT THE SOFTWARE WILL BE ACCURATE, UNINTERRUPTED, SECURE OR ERROR FREE, AND
+MAKES NO WARRANTY OF ANY KIND REGARDING ANY MEASUREMENT, FIGURE OR RESULT IT
+PRODUCES.
+
+4. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR
+OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. THIS
+EXCLUSION COVERS DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY AND
+CONSEQUENTIAL DAMAGES, AND LOSS OF DATA, PROFITS, REVENUE OR GOODWILL, EVEN IF
+THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Nothing in this license excludes or limits any liability that cannot lawfully be
+excluded or limited, including liability for the author's own gross negligence or
+wilful misconduct.
+
+5. GOVERNING LAW AND JURISDICTION
+
+This license is governed by the laws of the State of New Jersey, United States,
+without regard to its conflict of law rules, and the state and federal courts
+located in New Jersey have exclusive jurisdiction over any dispute arising out of
+or relating to it.
+
+6. SEVERABILITY
+
+If any provision of this license is held unenforceable, that provision will be
+limited or severed only to the minimum extent necessary, and every remaining
+provision will continue in full force.
+
+7. ACCEPTANCE
+
+Using, copying, modifying or distributing the Software constitutes acceptance of
+this license.
+
+8. INDEMNITY
+
+You agree to indemnify, defend and hold harmless the author and copyright holder
+from and against any claims, liabilities, losses, damages, costs and expenses,
+including reasonable legal fees, arising out of or relating to your use of the
+Software or of any derivative work, your distribution of either, or your breach
+of any condition of this license. This expressly includes claims brought against
+the author by third parties as a consequence of what you did with the Software.
+
+9. ASSUMPTION OF RISK
+
+You use the Software entirely at your own risk, and you accept that any
+measurement, figure or result it produces may be inaccurate. You alone are
+responsible for any decision you take in reliance on it.
+
+10. INTENDED USE, AND PRODUCTION OR SAFETY-CRITICAL ENVIRONMENTS
+
+The Software is an educational and experimental study. It is not designed,
+tested, certified or warranted for use in a production environment, and it is not
+designed or warranted for use where an inaccurate measurement could cause harm.
+This includes, without limitation, production networks, commercial service
+delivery, capacity planning, billing, service-level reporting, medical devices,
+industrial control, and any safety-critical or life-critical system.
+
+If you choose to use the Software in such an environment, you do so entirely at
+your own risk and on your own judgement. You are solely responsible for
+independently validating, testing and hardening it for that purpose, and sections
+3, 4, 8 and 9 apply in full.
+
+This section is a statement of intended scope and a warning. It does not narrow
+the permissions granted in section 1, and it is drafted that way on purpose,
+because a warning of this kind is what limits the warranty and shifts the risk of
+use, while a bare prohibition would do neither.

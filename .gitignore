@@ -1,0 +1,19 @@
+# Build output
+build/
+src/ui/.build/
+
+# Working notes and UI screenshots: kept local, never published
+docs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+CMakeSettings.json
+
+# Runtime data produced by running the app (never commit user results)
+history.tsv
+
+# OS cruft
+Thumbs.db
+desktop.ini
